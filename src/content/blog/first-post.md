@@ -1,7 +1,7 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "Finding the first tools"
+description: "Be that as it may"
+pubDate: "22 May 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
